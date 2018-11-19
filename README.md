@@ -1,5 +1,5 @@
 # liver-disorder-prediction
-compriers of comparios between machine learning algorithm for accuracy
+Comparisons between machine learning algorithm for achieving optimum accuracy
 SVM
 NAIVE BAYES
 DECSION TREE
